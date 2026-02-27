@@ -1,5 +1,5 @@
-## Olá, eu sou Lucas Faria👋✨
-
+# Olá👋, eu sou Lucas Faria
+✨ **ADS Student | Python**
 
 <!--
 **NovaLosf/novalosf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
