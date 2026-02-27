@@ -1,5 +1,5 @@
 ## Olá, eu sou Lucas Faria👋✨
-<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/f0fe0ee1-2f81-4ae7-b758-3ccfd8678493" />
+
 
 <!--
 **NovaLosf/novalosf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
