@@ -1,5 +1,5 @@
 # Olá👋, eu sou Lucas Faria
-✨ **ADS Student | Python**
+✨ **ADS Student | Python**  
 🇧🇷 **Brasil**
 
 <!--
