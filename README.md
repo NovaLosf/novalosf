@@ -4,7 +4,7 @@
     align="right"
     alt="Luffy"
     title="Luffy"
-    width="300px"
+    width="290px"
     style="padding-right: 10px;"
     src="https://github.com/user-attachments/assets/c2f195af-eaa2-4fd3-bd11-3d5bdaf6e3cc"
 />
