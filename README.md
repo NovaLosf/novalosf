@@ -16,7 +16,7 @@
 Prazer, me chamo Lucas, tenho 19 anos e natural do Rio de Janeiro.  
 Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** pela **UVA**.
 
-Minha filosofia de trabalho é simples: **código limpo**, **solução inteligente**. Dedico meu dia a dia a dominar o Python para entregar projetos cada vez mais **organizados** e **eficientes**, mas sempre aberto à novas linguagens.
+Minha filosofia de trabalho é simples: **código limpo**, **solução inteligente**. Dedico meu dia a dia a dominar o **Python** para entregar projetos cada vez mais **organizados** e **eficientes**, mas sempre aberto à novas linguagens.
 
 ---
 
