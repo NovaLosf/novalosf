@@ -32,6 +32,7 @@ Minha filosofia de trabalho é simples: **código limpo**, **solução inteligen
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
+
 <img
     align="left"
     alt="C#"
@@ -51,7 +52,48 @@ Minha filosofia de trabalho é simples: **código limpo**, **solução inteligen
 
 <br/>
 
+### IA e Data Science
+
+<img 
+    align="left"
+    alt="Pandas"
+    title="Pandas"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
+/>
+    
+<img 
+    align="left"
+    alt="Plotly"
+    title="Plotly"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg"
+/>
+
+
+<img 
+    align="left"
+    alt="Scikit-learn"
+    title="Scikit-learn"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"
+/>
+
+<br/>
+
 ### Ferramentas
+
+
+<img 
+    align="left"
+    alt="Jupyter"
+    title="Jupyter"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
 
 <img
     align="left"
