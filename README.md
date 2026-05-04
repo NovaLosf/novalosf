@@ -52,7 +52,7 @@ Minha filosofia de trabalho é simples: **código limpo**, **solução inteligen
 
 <br/>
 
-### IA e Data Science
+### IA e Data
 
 <img 
     align="left"
